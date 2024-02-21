@@ -206,7 +206,6 @@ final ThemeData themeDataLight = ThemeData(
   listTileTheme: const ListTileThemeData(
     dense: true,
     contentPadding: EdgeInsets.all(0),
-    tileColor: Colors.red,
   ),
   iconTheme: const IconThemeData(
     color: white,
